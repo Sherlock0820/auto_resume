@@ -1,0 +1,15 @@
+# 忽略 PyCharm 相关文件
+.idea/
+
+# 忽略虚拟环境
+venv_auto/
+
+# 忽略 Python 编译文件
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 忽略日志和临时文件
+*.log
+*.tmp
